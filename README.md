@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @munozariasjm
 - 👀 I’m interested in physics and ML 
 - 🌱 I’m currently learning the most I can
+- 📜 Check [my CV](http://munozariasjm.pythonanywhere.com/)
 - 👓 Check [my homepage](https://munozariasjm.github.io/)
-- 📜 Read [my CV](http://munozariasjm.pythonanywhere.com/)
 - 📫 How to reach me munozariasjm@hotmail.com
 
 <!---
