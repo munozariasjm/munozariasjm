@@ -3,11 +3,13 @@
   Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
   I'm @munozariasjm
  </h1>
- 
- 🧪 Physics Researcher and Student
+ <br>
+ <br>
+ 🧪 Physics Researcher and Student<br>
  💻 ML Data Scientist at GUANE
  
-
+<br>
+<br>
 📜 Check [my CV](http://munozariasjm.pythonanywhere.com/)<br>
 👓 Check [my homepage](https://munozariasjm.github.io/)<br>
 📫 How to reach me munozariasjm@hotmail.com<br>
