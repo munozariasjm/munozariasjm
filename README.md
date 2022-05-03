@@ -10,8 +10,7 @@
  
 <br>
 <br>
-📜 Check [my CV (http://munozariasjm.pythonanywhere.com/)]<br>
-👓 Check [my homepage (https://munozariasjm.github.io/)]<br>
+<a href="http://munozariasjm.pythonanywhere.com/"> 📜 Check my web CV!</a> <br>
 📫 How to reach me munozariasjm@hotmail.com<br>
 
 
