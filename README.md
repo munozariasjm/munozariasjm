@@ -4,6 +4,9 @@
   I'm @munozariasjm
  </h1>
  
+ 🧪 Physics Researcher and Student
+ 💻 ML Data Scientist at GUANE
+ 
 
 📜 Check [my CV](http://munozariasjm.pythonanywhere.com/)<br>
 👓 Check [my homepage](https://munozariasjm.github.io/)<br>
