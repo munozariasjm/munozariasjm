@@ -1,7 +1,9 @@
 
-<h1 align="center"  background-image: url('https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif')
->
+<h1 align="center">
   Hi!  I'm @munozariasjm
+
+  <img src="https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif" alt="geo" width="1000" height="100">
+
  </h1>
  <br>
  <br>
