@@ -1,7 +1,7 @@
 
-<h1 align="center">
-  Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
-  I'm @munozariasjm
+<h1 align="center"  background-image: url('https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif')
+>
+  Hi!  I'm @munozariasjm
  </h1>
  <br>
  <br>
@@ -10,7 +10,7 @@
  
 <br>
 <br>
-<a href="http://munozariasjm.pythonanywhere.com/"> 📜 Check my web CV!</a> <br>
+<a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
 📫 How to reach me munozariasjm@hotmail.com<br>
 
 
