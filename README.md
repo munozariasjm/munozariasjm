@@ -8,7 +8,7 @@
  <br>
  <br>
  🧪 Physics Researcher and Student<br>
- 💻 ML Data Scientist at GUANE
+ 💻 ML Data Scientist at GUANE, CERN Summer Student
  
 <br>
 <br>
