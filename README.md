@@ -7,7 +7,7 @@
  </h1>
  <br>
  <br>
- 🧪 Physics Researcher and Student<br>
+ 🧪 Physics and ML Researcher<br>
  💻 ML Data Scientist at GUANE, CERN Summer Student
  
 <br>
