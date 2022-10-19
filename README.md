@@ -31,6 +31,12 @@ I am Jose M Munoz A,
 [![](https://img.shields.io/badge/-🦾%20MachineLearning-000)]()
 [![](https://img.shields.io/badge/-📝%20NLP-000)]()
 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=munozariasjm&theme=github)
+
+
+
 ### Languages 🌐
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -40,3 +46,5 @@ I am Jose M Munoz A,
 ![Root](https://img.shields.io/badge/-Root-000?&logo=Root)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munozariasjm&theme=github)
