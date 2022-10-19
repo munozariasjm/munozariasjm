@@ -1,12 +1,21 @@
 
 <h1 align="center">
-  Hi!  I'm @munozariasjm
+  Hi!  I'm @munozariasjm 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   <img src="https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif" alt="geo" width="1000" height="100">
 
  </h1>
+ <div id="header" align="center">
+  <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
+ 
  <br>
  <br>
+ 
+ ---
+### :man_technologist: About Me :
+I am Jose M Munoz A, 
  🧪 Physics and ML Researcher<br>
  💻 Machine Learning Engineer at GUANE, CERN Summer Intern
  
