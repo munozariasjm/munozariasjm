@@ -24,7 +24,7 @@ Currently I'm a last year Physics bachelor @ EIA University in Colombia. Neverth
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
-📫 How to reach me munozariasjm@hotmail.com<br>
+📫 How to reach me munozariasjm [at] gmail.com<br>
 
 
 ### Interest 👀 
