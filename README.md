@@ -1,8 +1,6 @@
 
 <h1 align="center">
   Hi!  I'm @munozariasjm 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
   <img src="https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif" alt="geo" width="1000" height="100">
 
  </h1>
@@ -17,7 +15,7 @@
 ### :man_technologist: About Me :
 I am Jose M Munoz A, 
  🧪 Physics and ML Researcher<br>
- 💻 Machine Learning Engineer at GUANE, CERN Summer Intern
+ 💻 Machine Learning Engineer
  
 <br>
 Currently I'm a last year Physics bachelor @ EIA University in Colombia. Nevertheless I spend a considerable amount of my days solving real life problems, both at my work as a professional Machine Learning Engineer at Guane Enterprises. I also develop ML for physics algorithms at CMS-CERN.
