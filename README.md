@@ -18,7 +18,7 @@ I am Jose M Munoz A,
  💻 Machine Learning Engineer
  
 <br>
-Currently I'm a last year Physics bachelor @ EIA University in Colombia. Nevertheless I spend a considerable amount of my days solving real life problems, both at my work as a professional Machine Learning Engineer at Guane Enterprises. I also develop ML for physics algorithms at CMS-CERN.
+Currently I'm a last year Physics bachelor @ EIA University in Colombia. Nevertheless I spend a considerable amount of my days solving phyiscs problems (things related with ML and particles...), and real life Data Science projects. I also develop ML for physics algorithms at CMS-CERN.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
