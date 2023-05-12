@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi! Jose M Munoz
+  Hi! I'm Jose M Munoz
   <img src="https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif" alt="geo" width="1000" height="100">
 
  </h1>
