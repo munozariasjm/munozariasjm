@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi! I'm Jose M Munoz
+  Hi! I'm Jose Miguel Muñoz Arias
   <img src="https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif" alt="geo" width="1000" height="100">
 
  </h1>
@@ -14,11 +14,11 @@
  ---
 ### :man_technologist: About Me :
 I am Jose M Munoz A, 
- 🧪 Physics and ML Researcher<br>
+ 🧪 Physicist <br>
  💻 Machine Learning Engineer
  
 <br>
-Currently I'm a last year Physics bachelor @ EIA University in Colombia. Nevertheless I spend a considerable amount of my days solving phyiscs problems (things related with ML and particles...), and real life Data Science projects. I also develop ML for physics algorithms at CMS-CERN.
+Incoming MIT Physics PhD student, ex CMS researcher with Vanderbilt University, Research assistant at EIA University, and ML Engineer at guane Enterprises.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
