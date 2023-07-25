@@ -13,7 +13,7 @@
  
  ---
 ### :man_technologist: About Me :
-I am Jose M Munoz A, 
+I am Jose M Munoz A, <br>
  🧪 Physicist <br>
  💻 Machine Learning Engineer
  
