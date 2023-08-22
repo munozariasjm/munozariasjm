@@ -4,9 +4,6 @@
   <img src="https://c.tenor.com/A86hwUcOp10AAAAC/black-white.gif" alt="geo" width="1000" height="100">
 
  </h1>
- <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
-</div>
  
  <br>
  <br>
@@ -15,10 +12,10 @@
 ### :man_technologist: About Me :
 I am Jose M Munoz A, <br>
  🧪 Physicist <br>
- 💻 Machine Learning Engineer
+ 💻 ML Engineer
  
 <br>
-Incoming MIT Physics PhD student, ex CMS researcher with Vanderbilt University, Research assistant at EIA University, and ML Engineer at guane Enterprises.
+MIT Physics PhD student, ex CMS researcher with Vanderbilt University, Research assistant at EIA University, and ML Engineer at guane Enterprises.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
