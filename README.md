@@ -11,11 +11,11 @@
  ---
 ### :man_technologist: About Me :
 I am Jose M Munoz A, <br>
- 🧪 Physicist <br>
+ 🧪 MIT Physics PhD student <br>
  💻 ML Engineer
  
 <br>
-MIT Physics PhD student, ex CMS researcher with Vanderbilt University, Research assistant at EIA University, and ML Engineer at guane Enterprises.
+ex CMS researcher with Vanderbilt University, Research assistant at EIA University, and ML Engineer at guane Enterprises.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
