@@ -29,11 +29,6 @@ ex CMS researcher with Vanderbilt University, Research assistant at EIA Universi
 [![](https://img.shields.io/badge/-📝%20NLP-000)]()
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=munozariasjm&theme=github)
-
-
-
 ### Languages 🌐
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
