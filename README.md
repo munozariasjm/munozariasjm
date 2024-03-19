@@ -15,7 +15,8 @@ I am Jose M Munoz A, <br>
  💻 ML Engineer
  
 <br>
-ex CMS researcher with Vanderbilt University, Research assistant at EIA University, and ML Engineer at guane Enterprises.
+ex CMS researcher with Vanderbilt University, and ML Engineer at guane Enterprises.
+co-founder of Qualia.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
