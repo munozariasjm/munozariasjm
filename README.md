@@ -12,7 +12,6 @@
 ### :man_technologist: About Me :
 I am Jose M Munoz A, <br>
  🧪 MIT Physics PhD student <br>
- 💻 ML Engineer
  
 <br>
 ex CMS researcher with Vanderbilt University, and ML Engineer at guane Enterprises.
