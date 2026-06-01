@@ -15,11 +15,9 @@ I am Jose M Munoz A, <br>
  
 <br>
 ex CMS researcher with Vanderbilt University, and ML Engineer at guane Enterprises.
-co-founder of Qualia.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
-📫 How to reach me munozariasjm [at] gmail.com<br>
 
 
 ### Interest 👀 
