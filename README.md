@@ -11,10 +11,10 @@
  ---
 ### :man_technologist: About Me :
 I am Jose M Munoz A, <br>
- 🧪 MIT Physics PhD student <br>
+MIT Physics PhD student <br>
  
 <br>
-ex CMS researcher with Vanderbilt University, and ML Engineer at guane Enterprises.
+ex CMS researcher at Vanderbilt University, and ML Engineer at guane Enterprises.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
@@ -25,16 +25,5 @@ ex CMS researcher with Vanderbilt University, and ML Engineer at guane Enterpris
 [![](https://img.shields.io/badge/-⚛️%20Physics-000)]()
 [![](https://img.shields.io/badge/-🦾%20MachineLearning-000)]()
 [![](https://img.shields.io/badge/-📝%20NLP-000)]()
-
-
-### Languages 🌐
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Julia](https://img.shields.io/badge/-Julia-000?&logo=Julia)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash&logoColor=007396)
-![Root](https://img.shields.io/badge/-Root-000?&logo=Root)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munozariasjm&theme=github)
