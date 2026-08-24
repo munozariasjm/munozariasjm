@@ -9,7 +9,7 @@
  <br>
  
  ---
-### :man_technologist: About Me :
+### About Me :
 I am Jose M Munoz A, <br>
 MIT Physics PhD student <br>
  
