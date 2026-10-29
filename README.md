@@ -17,13 +17,9 @@ MIT Physics PhD student <br>
 ex CMS researcher at Vanderbilt University, and ML Engineer at guane Enterprises.
 
 <br>
-<a href="http://munozariasjm.github.io"> 📜 Check my web CV!</a> <br>
+<a href="http://munozariasjm.github.io"> 📜 Website</a> <br>
 
 
 ### Interest 👀 
-
-[![](https://img.shields.io/badge/-⚛️%20Physics-000)]()
-[![](https://img.shields.io/badge/-🦾%20MachineLearning-000)]()
-[![](https://img.shields.io/badge/-📝%20NLP-000)]()
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munozariasjm&theme=github)
