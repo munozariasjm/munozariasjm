@@ -14,7 +14,7 @@ I am Jose M Munoz A, <br>
 MIT Physics PhD student <br>
  
 <br>
-ex CMS researcher at Vanderbilt University, and ML Engineer at guane Enterprises.
+ex CMS researcher, and ML Engineer at guane Enterprises.
 
 <br>
 <a href="http://munozariasjm.github.io"> 📜 Website</a> <br>
